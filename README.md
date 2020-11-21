@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <!-- Formation -->
 <h3> Formation </h3>
 
-- Master Information System Expert
-- Bachelor Devops
-- General Engineer Preparatory Cycle
+- Master Information System Expert ° YNOV
+- Bachelor Devops ° EPSI
+- General Engineer Preparatory Cycle °ECAM-EPMI
 
 <!-- Skills -->
 <h3 align="left">Languages and Tools:</h3>
