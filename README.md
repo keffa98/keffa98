@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 <!-- Projects -->
 <h3> 🔭 I’m currently working on ... </h3>
-- Monitor 
-- Sami DCA
-- BEX PAYMENTS
+
+- Monitor  
+- Sami DCA 
+- BEX PAYMENTS 
 
 <!-- Experience -->
 
