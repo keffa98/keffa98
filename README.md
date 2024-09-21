@@ -1,6 +1,6 @@
 ### Glad to see you there 👋
 
-I'm Aros FONTON. I'm a final year student pursuing Master's in Computer Science 🎓 at YNOV Campus. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Full stack Development.
+I'm Aros FONTON. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems ✨. Apart from that, I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into application performance.
 
 <!--
 **keffa98/keffa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 <!-- Projects -->
 <h3> 🔭 I’m currently working on ... </h3>
 
-- Monitor  
+- BexCare APP
+- Monitor
 - Sami DCA 
 - BEX PAYMENTS 
 
@@ -28,13 +29,11 @@ Here are some ideas to get you started:
 
 <h3> Work Experience</h3>
 
-- Software Fullstack Developper Internship ° Since 2019 ° Natixis
+- Consultant in architecture and application performance ° 2019 - 2021 ° Leanovia
 
-- Project Management ° 2018 ° Robotium ECAM-EPMI
+- Software Fullstack Developper ° 2019 - 2021 ° Natixis
 
-- Head of Communication ° 2018 ° Enactus ECAM-EMPI
-
-- Full Stack Developper ° 2019 ° EPSI
+- Web Developper ° 2018 ° Freelance
 
 
 <!-- Formation -->
@@ -42,7 +41,7 @@ Here are some ideas to get you started:
 
 - Master Information System Expert ° YNOV
 - Bachelor Devops ° EPSI
-- General Engineer Preparatory Cycle °ECAM-EPMI
+- General Engineer Preparatory Cycle ° ECAM-EPMI
 
 <!-- Skills -->
 <h3 align="left">Languages and Tools:</h3>
@@ -54,9 +53,11 @@ Here are some ideas to get you started:
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 
-- 🌱 I’m currently learning full stack development , digital marketing , UI/UX Design & also entrepreneurship .
+- 🌱 I’m currently learning AI
 
-- 💬 Ask me about anything **[here](https://t.me/arosfonton)** ! I am happy to help.
+- 💬 Ask me about anything **arosf@startandgrowth.net** ! I am happy to help.
+
+<!-- - 💬 Ask me about anything **[here](https://t.me/arosfonton)** ! I am happy to help. -->
 
 <!-- - 📫 How to reach me **[Twitter](http://twitter.com/aros)** -->
 
