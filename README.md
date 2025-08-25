@@ -17,31 +17,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Projects -->
-<h3> 🔭 I’m currently working on ... </h3>
-
-- BexCare APP
-- Monitor
-- Sami DCA 
-- BEX PAYMENTS 
 
 <!-- Experience -->
 
 <h3> Work Experience</h3>
 
-- Consultant in architecture and application performance ° 2019 - 2021 ° Leanovia
+- Software Engineer ° 2025 - Present ° AKENEO
+
+- APM Consultant ° 2023 - 2025 ° Ministry of the Economy and Finance (France)
+
+- AI & Automation Consulant ° 2023 - Present ° Freelance
+
+- Consultant in architecture and application performance ° 2019 - 2025 ° Leanovia
 
 - Software Fullstack Developper ° 2019 - 2021 ° Natixis
 
-- Web Developper ° 2018 ° Freelance
+- Web Developper ° 2016 - 2021 ° Freelance
 
 
 <!-- Formation -->
 <h3> Formation </h3>
 
-- Master Information System Expert ° YNOV
-- Bachelor Devops ° EPSI
-- General Engineer Preparatory Cycle ° ECAM-EPMI
+- Expert in Software Engineering ° YNOV
+- Bachelor DevOps ° EPSI
+- General Engineer ° ECAM-EPMI
 
 <!-- Skills -->
 <h3 align="left">Languages and Tools:</h3>
@@ -71,7 +70,7 @@ Here are some ideas to get you started:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keffa98&show_icons=true&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keffa98&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keffa98&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 ---
